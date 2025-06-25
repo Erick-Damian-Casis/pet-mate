@@ -32,7 +32,7 @@
 
 # Pasos Para los endpoint con postman
 1. Hay varios archivos ya modificados con las rutas de toda la aplicacion
-    vamos a importarlos a nuestro Postman
+    vamos a importarlos a nuestro Postman, estan ubicados en una carpeta llamada "Postman Files"
 2. En la parte superior izquierda hay un boton de importacion, ahi subimos nuestros archivos
 3. Para probar las rutas primero tienes que generar el token de acceso en la seccion Auth
     - En la ruta http://localhost:8000/api/login
